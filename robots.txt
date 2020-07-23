@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wardley-maps-community.github.io/awesome-wardley-maps/sitemap.txt
+Sitemap: https://wardley-maps-community.github.io/sitemap.xml
